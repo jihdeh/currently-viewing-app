@@ -1,0 +1,62 @@
+exports[`test updates displaying ip address 1`] = `
+<div>
+  <div
+    className="container">
+    <br />
+    <div
+      className="row">
+      <div
+        className="dual-list list-left col-md-5">
+        <div
+          className="well text-right">
+          <div
+            className="row">
+            <div
+              className="col-md-12">
+              <h4>
+                Your Details
+              </h4>
+            </div>
+          </div>
+          <ul
+            className="list-group">
+            <li
+              className="list-group-item">
+              Fetching your info .... 
+            </li>
+          </ul>
+        </div>
+      </div>
+      <div
+        className="dual-list list-right col-md-5">
+        <div
+          className="well">
+          <div
+            className="row">
+            <div
+              className="col-md-12">
+              <h4>
+                Visitor IP Adresses. 
+                <small>
+                  Including yours though.
+                </small>
+              </h4>
+            </div>
+          </div>
+          <ul
+            className="list-group">
+            <li
+              className="list-group-item">
+              Loading ..... 
+            </li>
+          </ul>
+          <p>
+            Currently viewing: 
+            0
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
